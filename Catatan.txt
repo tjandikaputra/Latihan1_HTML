@@ -1,0 +1,20 @@
+AKUN GITHUB https://docs.google.com/document/d/1bJNDqhIomRCa4jTfyCrXNNK-d6B2U19kk2Ff_aFzHRM/edit?usp=sharing
+
+ABSENSI SINAU
+https://forms.gle/nXk4nLGaWdo5Qo8C9
+
+LINK GMEET
+https://meet.google.com/ezg-yeva-zix
+
+Tugas :
+Day 1 - Install VS Code dan Node Js
+
+Catatan :
+Day 2
+
+
+Note Absen :
+Day 2 - Mengenal script html
+
+ol = order list
+li =list item
